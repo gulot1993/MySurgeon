@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">MySurgeon</string>
+    <!--strings about splash-->
+    <string name="tv_30_days_trial">Try all the features free for 30 days!</string>
+    <string name="tv_app_description">Let MySurgeon put your surgeon preferences at your fingertips.</string>
+    <string name="tv_register_free_trial">Register now for your free trial</string>
+    <string name="tv_already_have_account">I already have an account</string>
+
+    <!--strings about auth-->
+    <string name="tv_hint_firstname">*First Name</string>
+    <string name="tv_hint_lastname">*Last Name</string>
+    <string name="tv_hint_email">*Email Address</string>
+    <string name="tv_hint_username">*Username</string>
+    <string name="tv_hint_password">*Password</string>
+    <string name="tv_hint_confirm_password">*Re-type Password</string>
+    <string name="tv_mailing_address">Mailing Address</string>
+    <string name="tv_hint_street">Street</string>
+    <string name="tv_hint_city">City</string>
+    <string name="tv_hint_state">State</string>
+    <string name="tv_hint_zip">Zip Code</string>
+    <string name="tv_sign_up">Sign Up</string>
+    <string name="tv_sign_in">Sign In</string>
+    <string name="tv_contact_numbers">Contact Numbers</string>
+    <string name="tv_hint_mobile_number">Mobile Number</string>
+    <string name="tv_hint_landline_number">Landline Number</string>
+    <string name="tv_option">Opt-in to receive update from MySurgeon</string>
+    <string name="tv_email">E-Mail</string>
+    <string name="tv_push_notif">Push Notification</string>
+    <string name="tv_submit">Submit</string>
+    <string name="tv_send">Send</string>
+    <string name="tv_on">ON</string>
+    <string name="tv_off">OFF</string>
+    <string name="tv_username_or_password">Username Or Email</string>
+    <string name="tv_password_no_asterisk">Password</string>
+    <string name="tv_login">Login</string>
+    <string name="tv_forgot_password">Forgot Password?</string>
+    <string name="tv_forgot_password_description">
+        To reset you password, please input your username or email address below. We will send a link
+        to your inbox. Click on the link to create your new password.
+    </string>
+
+    <string name="tv_empty_username_password_error">Username or Password is required</string>
+    <string name="tv_loading_login">Loggin in… Please wait</string>
+    <string name="tv_loading_signup">Signing up… Please wait</string>
+    <string name="tv_short_password">Password must be 6 characters and up</string>
+    <string name="tv_password_not_match">Password must be 6 characters and up</string>
+
+    <!--strings about main layout-->
+    <string name="tv_surgeons">Surgeons</string>
+    <string name="tv_procedures">Procedures</string>
+    <string name="tv_procedures_details">Procedures Details</string>
+    <string name="tv_search">Search</string>
+    <string name="tv_journal">Journal</string>
+    <string name="tv_notifications">Notifications</string>
+    <string name="tv_account">Account</string>
+    <string name="tv_search_hint_surgeons">Search for surgeons…</string>
+    <string name="tv_search_hint_procedures">Search for procedures…</string>
+    <string name="tv_linked_surgeons">Linked To Surgeons:</string>
+    <string name="tv_not_linked_surgeons">Not Linked To Surgeons:</string>
+
+    <string name="tv_start">Start</string>
+    <string name="tv_end">End</string>
+
+    <!--strings about sharing surgeon-->
+    <string name="tv_send_email">E-mail</string>
+    <string name="tv_send_sms">SMS</string>
+
+    <!--strings about menu-->
+    <string name="tv_add">add</string>
+    <string name="tv_refesh">refresh</string>
+
+    <!--string about add surgeon-->
+    <string name="tv_add_surgeon">Add Surgeon</string>
+    <string name="tv_edit_surgeon">Edit Surgeon</string>
+    <string name="tv_surgeon_details">Surgeon Details</string>
+    <string name="tv_hint_organization">Organization / Hospital</string>
+    <string name="tv_specialization">Specialization</string>
+    <string name="tv_contact_person">Office Contact Person</string>
+    <string name="tv_work">Work</string>
+    <string name="tv_hint_fax">Fax</string>
+    <string name="tv_website">Website URL</string>
+    <string name="tv_notes">Notes</string>
+    <string name="tv_save">Save</string>
+
+    <!--string about procedure-->
+    <string name="tv_procedure_name">Procedure Name</string>
+    <string name="tv_procedure_code">Procedure Code</string>
+    <string name="tv_vendor">Vendor</string>
+    <string name="tv_favorite_instruments">Favorie Instruments</string>
+    <string name="tv_position">Positioning</string>
+    <string name="tv_dressing">Dressing</string>
+    <string name="tv_wound_closure">Wound Closure</string>
+    <string name="tv_photos">Photos</string>
+    <string name="tv_add_procedure">Add Procedure</string>
+    <string name="tv_edit_procedure">Edit Procedure</string>
+    <string name="tv_payable">Payable: </string>
+
+    <!--strings about share info-->
+    <string name="tv_surgeon_info_only">Surgeon Info Only</string>
+    <string name="tv_select_all_procedures">Select All Procedures</string>
+    <string name="tv_share">Share</string>
+</resources>

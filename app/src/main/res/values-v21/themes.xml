@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/colorGreen</item>
+    </style>
+    <style name="AppTheme.Login" parent="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">@color/colorGreen</item>
+    </style>
+    <style name="AppTheme.Main" parent="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">@color/colorGreen</item>
+    </style>
+</resources>

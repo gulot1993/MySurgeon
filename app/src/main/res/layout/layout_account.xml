@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ivLogo"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_marginTop="16dp"
+        android:src="@drawable/logo"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/tvName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp"
+        android:text="Your Name"
+        android:layout_below="@id/ivLogo"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/tvEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorBlack"
+        android:text="youremail@gmail.com"
+        android:layout_below="@id/tvName"
+        android:layout_centerHorizontal="true"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvSettings"
+        android:layout_marginTop="8dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@id/tvEmail"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" />
+</RelativeLayout>
